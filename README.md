@@ -368,7 +368,8 @@ Zig:
 
 ### SSH implementations with PQC support
 
-* [OpenSSH](https://www.openssh.org/pq.html) 
+* [OpenSSH](https://www.openssh.org/pq.html)
+- [Z-QEA Receipt Sealer / Verifier](https://github.com/SerenaSolutions/zqea-seal) - GitHub Actions that seal computation results in two-layer receipts: SHA3-256 seal plus ML-DSA-44 signature, with quantum-sourced entropy attestation; the verifier enforces strict post-quantum mode.
 
 ## Blockchains
 
